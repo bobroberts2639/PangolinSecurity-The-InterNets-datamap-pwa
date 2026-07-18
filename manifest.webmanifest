@@ -1,0 +1,25 @@
+{
+ "name": "The Internet \u2014 AS Datamap",
+ "short_name": "AS Datamap",
+ "description": "Interactive map of all 80k autonomous systems in the global BGP routing table.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#070a12",
+ "theme_color": "#070a12",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
