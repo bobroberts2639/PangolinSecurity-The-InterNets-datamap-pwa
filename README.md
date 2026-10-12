@@ -20,4 +20,4 @@ One finger: pan - Two fingers: pinch zoom - Tap node: info card + bgp.tools link
 Panel: Industry/Region/Blueprint colours, layers (links, contours, grid),
 halo styles, hub glyphs, brightness & dust sliders, search.
 
-Data: CAIDA AS Relationships + AS2Org (Jul 2026), Stanford ASdb (Mar 2026).
+Data: CAIDA AS Relationships + AS2Org (Jul 2026), Stanford ASdb (Mar 2026). Click- through Lookups at bgp.tools .
